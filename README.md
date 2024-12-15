@@ -1,5 +1,4 @@
-# Batik Classification API - KarsaNusa
-
+# Batik Classification API
 This project is a Flask-based application for classifying various types of Batik patterns from image inputs using a deep learning model.
 
 ## Features
